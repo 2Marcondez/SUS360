@@ -1,0 +1,21 @@
+# Credenciais e Arquivos Sensíveis
+.env
+.env.local
+wallet_cloud/
+
+# Cache e Compilação Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Editores e IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db

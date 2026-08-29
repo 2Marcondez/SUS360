@@ -1,0 +1,5 @@
+[theme]
+primaryColor = "#1f497d"          # Cor primária 
+backgroundColor = "#e6e6e6"       # Cor de fundo padrão do tema escuro
+secondaryBackgroundColor = "#b3b3b3b7" # Cor de fundo dos inputs/sidebar
+textColor = "#020202"             # Cor do texto
