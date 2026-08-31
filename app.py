@@ -226,7 +226,7 @@ def render_pressure_map(df: pd.DataFrame, month: str, year: int) -> None:
         range_color=[0, 1.5],
         zoom=5.5,
         center=MAP_CENTER,
-        map_style="carto-positron",
+        map_style="open-street-map",
         title=f"Ocupação Hospitalar - {month}/{year}",
     )
     fig.update_layout(
