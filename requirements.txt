@@ -1,0 +1,8 @@
+pandas
+SQLAlchemy
+oracledb
+requests
+scikit-learn
+plotly
+streamlit
+python-dotenv
